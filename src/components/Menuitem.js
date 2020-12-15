@@ -15,5 +15,11 @@ export const MenuData = [
 		path: '/create',
 		icon: <IoIcons.IoIosPaper />,
 		cName: 'nav-text'
+	},
+	{
+		title: "Drafts",
+		path: '/Draft',
+		icon: <IoIcons.IoIosPaper />,
+		cName: 'nav-text'
 	}
 ]
